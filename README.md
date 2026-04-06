@@ -8,8 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" alt="coding" width="250" src="<img width="1505" height="2060" alt="image" src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" />
 
 - 🎓 Computer Science Student  
 - 🤖 Learning AI, ML & Web Development  
