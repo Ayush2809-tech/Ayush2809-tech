@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="250" src=""C:\Users\saxen\OneDrive\Pictures\Camera Roll\as.jpg""/>
+<img align="right" alt="coding" width="250" src="C:\Users\saxen\OneDrive\Pictures\Camera Roll\as.jpg"/>
 
 - 🎓 Computer Science Student  
 - 🤖 Learning AI, ML & Web Development  
