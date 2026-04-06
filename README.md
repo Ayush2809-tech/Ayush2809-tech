@@ -1,29 +1,32 @@
 <h1 align="center">Hi 👋, I'm Ayush Saxena</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Building Real-World Projects</h3>
+<h3 align="center">🚀 Aspiring AI/ML Engineer | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Building+Cool+Projects;Future+Software+Engineer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Web+Developer;React+Learner;Future+Software+Engineer" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
+
+<img align="right" alt="coding" width="250" src=""C:\Users\saxen\OneDrive\Pictures\Camera Roll\as.jpg""/>
 
 - 🎓 Computer Science Student  
-- 🤖 Learning AI, Machine Learning & Web Development  
-- 💻 Building projects daily to improve skills  
-- 🎯 Goal: Crack top tech placement  
-- 🚀 Focus: Real-world projects + consistency  
+- 🤖 Learning AI, ML & Web Development  
+- 💻 Building real-world projects  
+- 🎯 Goal: Crack top tech placements  
+- 🔥 Consistent learner  
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/
-ayush-saxena-a50b50326
-">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/Ayush2809-tech">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/ayushsaxena2815">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:saxenaayush2809@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
@@ -32,11 +35,27 @@ ayush-saxena-a50b50326
 
 ---
 
-## ⚡ Tech Stack
+## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,java" />
 </p>
+
+---
+
+## ⚙️ Frameworks & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,git,github" />
+</p>
+
+---
+
+## 🧠 AI & Interests
+
+- 🤖 Machine Learning  
+- 🧠 AI Tools & Chatbots  
+- 🌐 Web + AI Integration  
 
 ---
 
@@ -57,23 +76,24 @@ ayush-saxena-a50b50326
 
 ---
 
-## 🚀 Projects
+## 🐍 Contribution Snake Animation
 
-- 🔹 **My First Project** – Basic HTML project  
-- 🔹 More coming soon... (building daily 🚀)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🏆 Achievements
+## 🚀 Projects
 
-- ✅ Started GitHub Journey (2026)
-- 🚀 Consistent daily learning
+- 🔹 Image Gallery Website  
+- 🔹 More projects coming soon...  
 
 ---
 
 ## 💡 Quote
 
-> "Consistency beats talent when talent doesn’t work hard."
+> "Discipline > Motivation"
 
 ---
 
