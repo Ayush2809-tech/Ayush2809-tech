@@ -110,7 +110,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/snake.svg" />
 </p>
 
 ---
