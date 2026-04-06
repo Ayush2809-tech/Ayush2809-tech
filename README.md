@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-<img width="300" align="center" height="400" alt="image" src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" />
+<img align="right" width="250" style="border-radius:50%;" src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" />
 
 - 🎓 Computer Science Student  
 - 🤖 Learning AI, ML & Web Development  
