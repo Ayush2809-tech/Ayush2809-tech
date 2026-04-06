@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-<img align="right" width="250" style="border-radius:50%;" src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" />
+<img align="right" width="260" src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" style="border-radius:50%; box-shadow: 0 0 20px cyan;" />
 
 - 🎓 Computer Science Student  
 - 🤖 Learning AI, ML & Web Development  
@@ -83,12 +83,16 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- 🔹 Image Gallery Website  
-- 🔹 More projects coming soon...  
+🔹 **Image Gallery Website**  
+👉 Clean UI + Click to Preview Images  
+🔗 https://github.com/Ayush2809-tech/image-gallery  
 
----
+🔹 **My First Project**  
+👉 Basic HTML Project  
+🔗 https://github.com/Ayush2809-tech/my-project  
+[🌐 Live Demo](YOUR_LIVE_LINK)
 
 ## 💡 Quote
 
