@@ -2,19 +2,24 @@
 <h3 align="center">🚀 Aspiring AI/ML Engineer | Web Developer</h3>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=200&section=header&text=Ayush%20Saxena&fontSize=40&fontColor=ffffff" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Web+Developer;React+Learner;Future+Software+Engineer" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-<img align="right" width="260" src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" style="border-radius:50%; box-shadow: 0 0 20px cyan;" />
+
+<img align="right" width="260" src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" style="border-radius:50%; box-shadow: 0 0 25px cyan;" />
 
 - 🎓 Computer Science Student  
-- 🤖 Learning AI, ML & Web Development  
-- 💻 Building real-world projects  
+- 🤖 Exploring AI, ML & Web Development  
+- 💻 Building real-world projects daily  
 - 🎯 Goal: Crack top tech placements  
-- 🔥 Consistent learner  
+- ⚡ Consistent & fast learner  
 
 ---
 
@@ -34,27 +39,54 @@
 
 ---
 
-## 💻 Languages
+## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,java" />
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,java" />
+</p>
+
+### 🚀 Frameworks & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-## ⚙️ Frameworks & Tools
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,git,github" />
-</p>
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🤖 AI & Machine Learning  
 
 ---
 
-## 🧠 AI & Interests
+## 🚀 Featured Projects
 
-- 🤖 Machine Learning  
-- 🧠 AI Tools & Chatbots  
-- 🌐 Web + AI Integration  
+<table>
+<tr>
+<td width="50%">
+
+### 📸 Image Gallery  
+- Responsive UI  
+- Click to zoom images  
+- Clean design  
+
+🔗 https://github.com/Ayush2809-tech/image-gallery  
+
+</td>
+
+<td width="50%">
+
+### 🌐 My First Project  
+- Basic HTML project  
+- Beginner friendly  
+
+🔗 https://github.com/Ayush2809-tech/my-project  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,7 +107,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/github-contribution-grid-snake.svg" />
@@ -83,16 +115,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Current Status
 
-🔹 **Image Gallery Website**  
-👉 Clean UI + Click to Preview Images  
-🔗 https://github.com/Ayush2809-tech/image-gallery  
+- 🚀 Building projects daily  
+- 📈 Improving GitHub profile  
+- 💼 Preparing for placements  
 
-🔹 **My First Project**  
-👉 Basic HTML Project  
-🔗 https://github.com/Ayush2809-tech/my-project  
-[🌐 Live Demo](YOUR_LIVE_LINK)
+---
 
 ## 💡 Quote
 
