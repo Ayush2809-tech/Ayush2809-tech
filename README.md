@@ -77,12 +77,6 @@
 
 ---
 
-### 📸 Image Gallery  
-👉 Clean UI with image preview  
-🔗 https://github.com/Ayush2809-tech/image-gallery  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
