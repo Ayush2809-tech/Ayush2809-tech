@@ -13,15 +13,13 @@
 
 ## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" width="180" style="border-radius:50%;" />
-</p>
+<img align="right" width="230" src="https://avatars.githubusercontent.com/u/yourGitHubID?v=4" style="border-radius:50%; box-shadow: 0 0 20px cyan;" />
 
 - 🎓 Computer Science Student  
 - 🤖 Exploring AI, ML & Web Development  
-- 💻 Building real-world projects daily  
+- 💻 Building real-world projects  
 - 🎯 Goal: Crack top tech placements  
-- ⚡ Consistent & fast learner  
+- ⚡ Focused on consistency & growth  
 
 ---
 
@@ -43,14 +41,8 @@
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,java" />
-</p>
-
-### 🚀 Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,java,react,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -66,20 +58,18 @@
 ## 🚀 Featured Projects
 
 ### 📚 Sarth Book Center  
-👉 Online bookstore with categories & responsive UI  
+✔ Online bookstore with categories & responsive UI  
+✔ Built using HTML, CSS & JavaScript  
+
 🔗 https://github.com/Ayush2809-tech/Sarth-Book-Center  
 
 ---
 
-### 🛒 Vansh Bookstore  
-👉 Bookstore with cart & login system  
+### 🏬 Vansh Bookstore  
+✔ Bookstore with cart & login system  
+✔ Clean UI and practical implementation  
+
 🔗 https://github.com/Ayush2809-tech/WebDev-VanshBookstore  
-
----
-
-### 📸 Image Gallery  
-👉 Clean UI with image preview  
-🔗 https://github.com/Ayush2809-tech/image-gallery  
 
 ---
 
