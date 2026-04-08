@@ -13,7 +13,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="260" src="https://avatars.githubusercontent.com/u/yourGitHubID?v=4" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" width="180" style="border-radius:50%;" />
+</p>
 
 - 🎓 Computer Science Student  
 - 🤖 Exploring AI, ML & Web Development  
@@ -42,13 +44,13 @@
 ## ⚙️ Tech Stack
 
 ### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c,java" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,java" />
 </p>
 
 ### 🚀 Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -63,43 +65,21 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 📚 Sarth Book Center  
-- Online bookstore built with **HTML, CSS & JS**  
-- Browse categories, explore stories, and connect easily  
-- Fully responsive 📱, clean 🧼, and fast ⚡ design  
+👉 Online bookstore with categories & responsive UI  
+🔗 https://github.com/Ayush2809-tech/Sarth-Book-Center  
 
-🔗 [Sarth Book Center](https://github.com/Ayush2809-tech/Sarth-Book-Center)  
+---
 
-<p>
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+### 🛒 Vansh Bookstore  
+👉 Bookstore with cart & login system  
+🔗 https://github.com/Ayush2809-tech/WebDev-VanshBookstore  
 
-</td>
+---
 
-<td width="50%">
-
-### 🏬 Vansh Bookstore  
-- Bookstore website with **cart & login system**  
-- User-friendly design and responsive layout  
-- Practical project showcasing web dev skills  
-
-🔗 [WebDev-VanshBookstore](https://github.com/Ayush2809-tech/WebDev-VanshBookstore)  
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-</td>
-</tr>
-</table>
+### 📸 Image Gallery  
+👉 Clean UI with image preview  
+🔗 https://github.com/Ayush2809-tech/image-gallery  
 
 ---
 
@@ -123,7 +103,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/snake.svg" />
 </p>
 
 ---
