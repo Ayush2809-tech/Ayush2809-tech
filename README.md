@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="260" src="https://github.com/user-attachments/assets/c73e8648-c826-4d2e-ad7a-a5f5f7d08391" style="border-radius:50%; box-shadow: 0 0 25px cyan;" />
+<img align="right" width="260" src="https://avatars.githubusercontent.com/u/yourGitHubID?v=4" />
 
 - 🎓 Computer Science Student  
 - 🤖 Exploring AI, ML & Web Development  
@@ -67,22 +67,35 @@
 <tr>
 <td width="50%">
 
-### 📸 Image Gallery  
-- Responsive UI  
-- Click to zoom images  
-- Clean design  
+### 📚 Sarth Book Center  
+- Online bookstore built with **HTML, CSS & JS**  
+- Browse categories, explore stories, and connect easily  
+- Fully responsive 📱, clean 🧼, and fast ⚡ design  
 
-🔗 https://github.com/Ayush2809-tech/image-gallery  
+🔗 [Sarth Book Center](https://github.com/Ayush2809-tech/Sarth-Book-Center)  
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 </td>
 
 <td width="50%">
 
-### 🌐 My First Project  
-- Basic HTML project  
-- Beginner friendly  
+### 🏬 Vansh Bookstore  
+- Bookstore website with **cart & login system**  
+- User-friendly design and responsive layout  
+- Practical project showcasing web dev skills  
 
-🔗 https://github.com/Ayush2809-tech/my-project  
+🔗 [WebDev-VanshBookstore](https://github.com/Ayush2809-tech/WebDev-VanshBookstore)  
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 </td>
 </tr>
