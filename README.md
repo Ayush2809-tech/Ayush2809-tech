@@ -80,8 +80,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush2809-tech&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush2809-tech&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush2809-tech&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush2809-tech&theme=tokyo-night&cache_seconds=1800" />
 </p>
 
 ---
