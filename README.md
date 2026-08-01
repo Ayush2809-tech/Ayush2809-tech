@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Saxena</h1>
 
 <h3 align="center">
-Python & Django Developer • B.Tech CSE (AI & ML) • Building Real-World Web Applications
+Python & Django Developer • B.Tech CSE (AI & ML)
 </h3>
 
 <p align="center">
@@ -9,47 +9,43 @@ Python & Django Developer • B.Tech CSE (AI & ML) • Building Real-World Web A
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;Building+Production-Ready+Web+Applications;Currently+Learning+DSA+%26+Backend+Engineering"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;Backend+Enthusiast;Building+Production-Ready+Web+Applications"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm **Ayush Saxena**, a third-year B.Tech Computer Science (AI & ML) student passionate about backend development and solving real-world problems through software.
-
-I enjoy building production-ready applications using **Python**, **Django**, and **PostgreSQL** while continuously improving my backend engineering and problem-solving skills.
+I'm a third-year **B.Tech Computer Science (AI & ML)** student passionate about backend development and building software that solves real-world problems.
 
 Currently focusing on:
 
-- 🚀 Backend Development
-- 🐍 Python & Django
-- 🗄 PostgreSQL
+- 🐍 Python
+- 🚀 Django
+- 🗄 SQL & Database Design
 - 📚 Data Structures & Algorithms
-- 💼 Software Engineering Internships
+- 💼 Backend Development
 
 ---
 
 # 🌟 Featured Project
 
-## 🎓 Aurelix — Student Management System
+# 🎓 Aurelix
 
-A production-deployed Student Management System developed using Django.
+A production-deployed Student Management System built using Django.
 
-### Key Features
+### Highlights
 
-- 🔐 Authentication System
-- 👨‍🎓 Student Management
-- 🏫 Multi-school Ready
-- 📊 Dashboard
-- 📤 Excel Import
-- 📥 Excel Export
-- ☁️ Cloudinary Integration
-- 📧 Brevo Email Integration
-- 🗄 PostgreSQL Database
-- 📱 Responsive Design
+- Authentication & Authorization
+- Student Management
+- Dashboard
+- Excel Import & Export
+- Cloudinary Integration
+- Email Automation (Brevo)
+- PostgreSQL Deployment
+- Responsive UI
 
-### Live Demo
+### Live
 
 🔗 https://aurelix-9q4e.onrender.com/
 
@@ -59,13 +55,49 @@ A production-deployed Student Management System developed using Django.
 
 ---
 
-# 💻 Tech Stack
+# 💻 Languages
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,django,postgresql,sqlite,html,css,js,bootstrap,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,js,java,c"/>
 
 </p>
+
+---
+
+# 🚀 Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=django,bootstrap,html,css"/>
+
+</p>
+
+---
+
+# 🗄 Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+SQL • PostgreSQL (Deployment)
+
+---
+
+# 🛠 Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+- Render
+- Cloudinary
+- Brevo
 
 ---
 
@@ -73,25 +105,15 @@ A production-deployed Student Management System developed using Django.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush2809-tech&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2809-tech&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Ayush2809-tech&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -101,7 +123,7 @@ A production-deployed Student Management System developed using Django.
 
 ---
 
-# 📬 Connect With Me
+# 📬 Connect
 
 <p align="center">
 
@@ -123,6 +145,6 @@ A production-deployed Student Management System developed using Django.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ayush2809-tech&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Ayush2809-tech&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
