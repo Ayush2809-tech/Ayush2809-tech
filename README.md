@@ -5,7 +5,7 @@ Aspiring Full-Stack Developer • B.Tech CSE (AI & ML)
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Hi 👋, I'm Ayush SaxenaAyush%20Saxena&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Ayush%20Saxena&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
