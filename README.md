@@ -27,7 +27,7 @@ Currently, I'm focused on becoming a stronger **Full-Stack Developer** while bui
 - ☕ Java & Data Structures
 - ⚛️ JavaScript & React
 - 🗄️ Databases & Backend Development
-- 📚 Problem Solving & LeetCode
+- 📚 Problem Solving & LeetCode.
 
 ---
 
