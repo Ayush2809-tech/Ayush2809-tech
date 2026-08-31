@@ -1,372 +1,455 @@
-<!-- ========================================================= -->
+<!-- ============================================================ -->
 
-<!--                    AYUSH SAXENA README                    -->
+<!--                   AYUSH SAXENA | GITHUB PROFILE              -->
 
-<!-- ========================================================= -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:22C55E&height=220&section=header&text=Ayush%20Saxena&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20(AI%20%26%20ML)&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&text=Ayush%20Saxena&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20in%20Progress%20%E2%80%A2%20B.Tech%20CSE%20(AI%20%26%20ML)&descSize=18&descAlignY=60&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=800&height=55&lines=Aspiring+Full-Stack+Developer;Building+Real-World+Web+Applications;Python+%7C+Django+%7C+JavaScript+%7C+React;Learning%2C+Building+%26+Improving+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=%F0%9F%9A%80+Building+Real-World+Web+Applications;%F0%9F%90%8D+Python+%7C+Django+%7C+Backend+Development;%E2%9A%9B%EF%B8%8F+JavaScript+%7C+React+%7C+Modern+Web+Development;%F0%9F%A7%A0+Learning+DSA+with+Java;%F0%9F%92%BB+Build.+Learn.+Improve.+Repeat."/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Ayush2809-tech">
-  <img src="https://img.shields.io/github/followers/Ayush2809-tech?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/followers/Ayush2809-tech?style=for-the-badge&label=Followers&logo=github&color=0F172A&labelColor=2563EB"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Ayush2809-tech&label=Profile%20Views&style=for-the-badge&color=06B6D4"/>
+<a href="https://github.com/Ayush2809-tech">
+<img src="https://komarev.com/ghpvc/?username=Ayush2809-tech&style=for-the-badge&label=PROFILE+VIEWS&color=06B6D4"/>
+</a>
 
 <a href="https://www.linkedin.com/in/ayush-saxena-2809s/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
-
----
-
-# 👨‍💻 About Me
-
-I'm **Ayush Saxena**, a B.Tech Computer Science student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in building practical and real-world software.
-
-Currently, I am focused on becoming a strong **Full-Stack Developer**, building production-oriented web applications, improving my backend development skills, and strengthening my problem-solving foundation through **Data Structures & Algorithms**.
 
 <br/>
 
 <div align="center">
 
-| 🚀 Building                 | 🧠 Learning           | 🎯 Goal                              |
-| --------------------------- | --------------------- | ------------------------------------ |
-| Full-Stack Web Applications | DSA with Java         | Become a Strong Full-Stack Developer |
-| Django Backend Projects     | JavaScript & React    | Build Production-Ready Projects      |
-| Real-World Software         | REST APIs & Databases | Improve Problem Solving              |
+### ⚡ Turning Ideas Into Functional Web Experiences ⚡
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🧑‍💻 `whoami`
 
-## 🎓 Aurelix — Student Management System
+```text
+Name       : Ayush Saxena
+Role       : Aspiring Full-Stack Developer
+Education  : B.Tech CSE (Artificial Intelligence & Machine Learning)
+Focus      : Backend • Full-Stack Development • Problem Solving
+Currently  : Django • JavaScript • React • Java DSA
+Goal       : Build production-ready applications that solve real problems
+```
 
-> A production-oriented Django web application designed to manage student-related operations efficiently.
+<br/>
 
-### ✨ Key Features
+> 💡 I enjoy taking an idea from **concept → code → deployment** and continuously improving my skills through real projects.
 
-* 🔐 Authentication & Authorization
-* 👨‍🎓 Student Management
-* 📊 Interactive Dashboard
-* 📥 Excel Import & Export
-* 📧 Email Automation
-* ☁️ Cloudinary Integration
-* 🐘 PostgreSQL Database
-* 📱 Responsive User Interface
+---
 
-### 🛠 Tech Stack
-
-`Python` `Django` `PostgreSQL` `Bootstrap` `Cloudinary`
+# ⚡ CURRENT FOCUS
 
 <div align="center">
+
+|     🚀 Development     |      🧠 Problem Solving      |          🎯 Building         |
+| :--------------------: | :--------------------------: | :--------------------------: |
+| Full-Stack Development | Data Structures & Algorithms | Production-Oriented Projects |
+|    Django & Backend    |             Java             |    Real-World Applications   |
+|   JavaScript & React   |           LeetCode           |  Strong Developer Portfolio  |
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+### ⭐ Projects That Represent My Development Journey
+
+</div>
+
+<br/>
+
+## 🎓 AURELIX — Student Management System
+
+> **A production-oriented Django application built to streamline student management and administrative operations.**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-LIVE-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TYPE-FULL--STACK-blue?style=for-the-badge"/>
+
+</div>
+
+### ⚡ Highlights
+
+```text
+🔐 Authentication & Authorization
+👨‍🎓 Student Management
+📊 Dashboard & Administrative Features
+📥 Excel Import & Export
+📧 Email Automation
+☁️ Cloudinary Integration
+🐘 PostgreSQL Database
+📱 Responsive Interface
+```
+
+<div align="center">
+
+**Python** • **Django** • **PostgreSQL** • **Bootstrap** • **Cloudinary**
+
+<br/><br/>
 
 <a href="https://aurelix-9q4e.onrender.com/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+ 
 
 <a href="https://github.com/Ayush2809-tech/Aurelix">
-<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
-
 ---
 
-## 🧬 Biotech Park Online Admission System
+## 🧬 BIOTECH PARK ONLINE ADMISSION SYSTEM
 
-> A full-stack online admission system developed for **Biotech Park, Lucknow** during my Python & Django internship.
-
-### ✨ Key Features
-
-* 📝 Online Admission Form
-* 🔐 Secure User Authentication
-* 📊 Admin Management
-* 💳 Payment Integration
-* 📧 Email Notifications
-* 🗂 Database Management
-* 📱 Responsive Interface
-
-### 🛠 Tech Stack
-
-`Python` `Django` `HTML` `CSS` `Bootstrap` `SQL`
+> **A full-stack online admission platform developed for Biotech Park, Lucknow during my Python & Django internship.**
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/TYPE-DJANGO%20FULL--STACK-2563EB?style=for-the-badge"/>
+
+</div>
+
+### ⚡ Highlights
+
+```text
+📝 Online Admission Workflow
+🔐 User Authentication
+🧑‍💼 Administrative Management
+💳 Payment Gateway Integration
+📧 Email Functionality
+🗄️ Database Operations
+📱 Responsive User Interface
+```
+
+<div align="center">
+
+**Python** • **Django** • **HTML** • **CSS** • **Bootstrap** • **SQL**
+
+<br/><br/>
 
 <a href="https://github.com/Ayush2809-tech/BTech-Park-Admission-System">
-<img src="https://img.shields.io/badge/💻_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_VIEW_PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+## 🎨 EDUREGISTER — Student Registration UI
+
+> **A modern responsive frontend interface focused on UI development and clean user experience.**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-LIVE-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TYPE-FRONTEND-06B6D4?style=for-the-badge"/>
+
+</div>
+
+### ⚡ Highlights
+
+```text
+🎥 Video Background
+📱 Responsive Layout
+🎨 Custom UI Styling
+🧩 Bootstrap Components
+⚡ Interactive JavaScript
+```
+
+<div align="center">
+
+**HTML5** • **CSS3** • **Bootstrap** • **JavaScript**
+
+<br/><br/>
+
+<a href="https://ayush2809-tech.github.io/EduRegister-Student-Registration-UI/">
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/Ayush2809-tech/EduRegister-Student-Registration-UI">
+<img src="https://img.shields.io/badge/💻_VIEW_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🧰 TECH ARSENAL
+
+<div align="center">
+
+> Tools and technologies I use to turn ideas into applications.
 
 </div>
 
 <br/>
 
----
-
-## 🎨 EduRegister — Student Registration UI
-
-> A modern and responsive frontend registration interface built to practice UI development and responsive design.
-
-### ✨ Highlights
-
-* 🎥 Video Background
-* 📱 Fully Responsive Layout
-* 🎨 Custom CSS Styling
-* 🧩 Bootstrap Components
-* ⚡ Interactive JavaScript Elements
-
-### 🛠 Tech Stack
-
-`HTML5` `CSS3` `Bootstrap` `JavaScript`
-
-<div align="center">
-
-<a href="https://ayush2809-tech.github.io/EduRegister-Student-Registration-UI/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-06B6D4?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Ayush2809-tech/EduRegister-Student-Registration-UI">
-<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🛠️ Tech Stack & Tools
-
-## 💻 Programming Languages
+## 💻 LANGUAGES
 
 <div align="center">
 
 <a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="58"/>
 </a>
-&nbsp;&nbsp;
+
+   
+
 <a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="58"/>
 </a>
-&nbsp;&nbsp;
+
+   
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" height="55"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img src="https://skillicons.dev/icons?i=c" height="55"/>
+<img src="https://skillicons.dev/icons?i=js" height="58"/>
 </a>
 
-</div>
+   
 
-<br/>
-
-<div align="center">
-
-`Python`    `Java`    `JavaScript`    `C`
+<img src="https://skillicons.dev/icons?i=c" height="58"/>
 
 </div>
 
----
-
-## 🎨 Frontend Development
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" height="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" height="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" height="55"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`HTML5`    `CSS3`    `Bootstrap`    `JavaScript`    `React`
+`PYTHON`　 `JAVA`　 `JAVASCRIPT`　 `C`
 
 </div>
 
 ---
 
-## ⚙️ Backend Development
+## 🎨 FRONTEND
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=django" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="58"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="58"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="58"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="58"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="58"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-`Python`    `Django`
-
-</div>
-
----
-
-## 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`SQLite`    `PostgreSQL`
+`HTML5`　 `CSS3`　 `BOOTSTRAP`　 `JAVASCRIPT`　 `REACT`
 
 </div>
 
 ---
 
-## ☁️ Deployment & Cloud Services
+## ⚙️ BACKEND
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="58"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" height="58"/>
+
+</div>
+
+<div align="center">
+
+`PYTHON`　 `DJANGO`
+
+</div>
+
+---
+
+## 🗄️ DATABASES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=sqlite" height="58"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="58"/>
+
+</div>
+
+<div align="center">
+
+`SQLITE`　 `POSTGRESQL`
+
+</div>
+
+---
+
+## ☁️ CLOUD & DEPLOYMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git" height="58"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="58"/>
 
 <br/><br/>
 
-`Render`    `Cloudinary`    `Brevo`
+<img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-Media-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Brevo-Email-0B9E9A?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧰 Developer Tools
+## 🧑‍💻 DEVELOPMENT TOOLS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=idea" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="58"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=idea" height="58"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="58"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="58"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-`Git`    `GitHub`    `VS Code`    `IntelliJ IDEA`
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| 🧠                           | 💻                  | ⚛️                 | 🌐              |
-| ---------------------------- | ------------------- | ------------------ | --------------- |
-| Data Structures & Algorithms | Advanced Django     | JavaScript & React | REST APIs       |
-| Java                         | Backend Development | Modern Frontend    | Database Design |
+`VS CODE`　 `INTELLIJ IDEA`　 `GIT`　 `GITHUB`
 
 </div>
 
 ---
 
-# 🎯 2026 Development Goals
-
-* 🚀 Build and deploy **10+ strong projects**
-* ⚛️ Strengthen **JavaScript & React**
-* 🐍 Build production-quality **Django applications**
-* 🧠 Improve **Data Structures & Algorithms**
-* 🌐 Build a strong **Full-Stack Developer Portfolio**
-* 🔧 Learn modern backend development practices
-
----
-
-# 📊 GitHub Analytics
+# 📚 CURRENTLY LEVELING UP
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="175" src="https://streak-stats.demolab.com?user=Ayush2809-tech&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2809-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+```text
+████████████░░░░░░░░  Django & Backend Development
+██████████░░░░░░░░░░  JavaScript
+████████░░░░░░░░░░░░  React
+██████████░░░░░░░░░░  Data Structures & Algorithms
+███████░░░░░░░░░░░░░  REST APIs
+```
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 🏆 GITHUB JOURNEY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush2809-tech&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush2809-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 📊 GITHUB STATS
 
 <div align="center">
 
 <a href="https://github.com/Ayush2809-tech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
 </a>
 
-<a href="https://www.linkedin.com/in/ayush-saxena-2809s/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Ayush2809-tech">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2809-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </a>
 
-<a href="mailto:saxenaayush2809@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ayush2809-tech&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🎯 2026 MISSION
+
 <div align="center">
 
-### 💡 *Building. Learning. Improving. 🚀*
-
-**Open to learning, collaboration, and building meaningful projects.**
+```text
+[✓] Build Real-World Django Applications
+[✓] Deploy Full-Stack Projects
+[→] Strengthen JavaScript & React
+[→] Master DSA Fundamentals with Java
+[→] Build More Production-Oriented Applications
+[→] Create a Strong Developer Portfolio
+[→] Keep Learning. Keep Shipping.
+```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:22C55E&height=120&section=footer"/>
+---
+
+# 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Ayush2809-tech">
+<img src="https://img.shields.io/badge/GitHub-Ayush2809--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/ayush-saxena-2809s/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Saxena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="mailto:saxenaayush2809@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ `BUILD → BREAK → LEARN → IMPROVE → SHIP` ⚡
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ayush2809-tech&label=PROFILE+VISITS&style=flat-square&color=06B6D4"/>
+
+</div>
