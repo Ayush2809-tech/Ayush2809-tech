@@ -1,142 +1,349 @@
-<h1 align="center">Hi 👋, I'm Ayush Saxena</h1>
+<!-- ========================================================= -->
 
-<h3 align="center">
-Aspiring Full-Stack Developer • B.Tech CSE (AI & ML)
-</h3>
+<!--                    AYUSH SAXENA README                    -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Ayush%20Saxena&fontSize=40&fontColor=ffffff"/>
-</p>
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Aspiring+Full-Stack+Developer;Django+%7C+Java+%7C+DSA;Building+Real-World+Web+Applications;Learning+%26+Building+Every+Day"/>
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:22C55E&height=220&section=header&text=Ayush%20Saxena&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20(AI%20%26%20ML)&descAlignY=58&descSize=18"/>
 
-## 👨‍💻 About Me
+</div>
 
-I'm a **B.Tech Computer Science (AI & ML)** student interested in building practical software and continuously improving my problem-solving and development skills.
+<div align="center">
 
-Currently, I'm focused on becoming a stronger **Full-Stack Developer** while building my foundation in Data Structures and Algorithms.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=06B6D4&center=true&vCenter=true&width=800&height=55&lines=Aspiring+Full-Stack+Developer;Building+Real-World+Web+Applications;Python+%7C+Django+%7C+JavaScript+%7C+React;Learning%2C+Building+%26+Improving+Every+Day"/>
 
-### 🔭 Currently Working On
+<br/>
 
-- 🚀 Full-Stack Web Development
-- 🐍 Python & Django
-- ☕ Java & Data Structures
-- ⚛️ JavaScript & React
-- 🗄️ Databases & Backend Development
-- 📚 Problem Solving & LeetCode.
+<a href="https://github.com/Ayush2809-tech">
+  <img src="https://img.shields.io/github/followers/Ayush2809-tech?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=Ayush2809-tech&label=Profile%20Views&style=for-the-badge&color=06B6D4"/>
 
-## 🚀 Featured Projects
+<a href="https://www.linkedin.com/in/ayush-saxena-2809s/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🎓 Aurelix — Student Management System
-
-A production-deployed web application built with Django for managing student-related operations.
-
-**Key Features**
-
-- Authentication & Authorization
-- Student Management
-- Dashboard
-- Excel Import & Export
-- Email Automation
-- Cloudinary Integration
-- PostgreSQL
-- Responsive UI
-
-🔗 **Live:** https://aurelix-9q4e.onrender.com/
-
-💻 **Repository:** https://github.com/Ayush2809-tech/Aurelix
+</div>
 
 ---
 
-### 🎨 EduRegister — Student Registration UI
+# 👨‍💻 About Me
 
-A responsive frontend registration interface built to practice modern UI design and frontend development.
+I'm **Ayush Saxena**, a B.Tech Computer Science student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in building practical and real-world software.
 
-**Built With**
+Currently, I am focused on becoming a strong **Full-Stack Developer**, building production-oriented web applications, improving my backend development skills, and strengthening my problem-solving foundation through **Data Structures & Algorithms**.
 
-`HTML` `CSS` `Bootstrap` `JavaScript`
+<br/>
 
-✨ Features include a video background, responsive layout and custom CSS styling.
+<div align="center">
 
-🔗 **Live:** https://ayush2809-tech.github.io/EduRegister-Student-Registration-UI/
+| 🚀 Building                 | 🧠 Learning           | 🎯 Goal                              |
+| --------------------------- | --------------------- | ------------------------------------ |
+| Full-Stack Web Applications | DSA with Java         | Become a Strong Full-Stack Developer |
+| Django Backend Projects     | JavaScript & React    | Build Production-Ready Projects      |
+| Real-World Software         | REST APIs & Databases | Improve Problem Solving              |
 
-💻 **Repository:** https://github.com/Ayush2809-tech/EduRegister-Student-Registration-UI
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,c"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,postgres"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-`Render` • `Cloudinary` • `Brevo`
+</div>
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Featured Projects
 
-- Data Structures & Algorithms with Java
-- Advanced Django & Backend Development
-- JavaScript & React
-- REST APIs
-- Database Design
-- Full-Stack Application Development
+## 🎓 Aurelix — Student Management System
+
+> A production-oriented Django web application designed to manage student-related operations efficiently.
+
+### ✨ Key Features
+
+* 🔐 Authentication & Authorization
+* 👨‍🎓 Student Management
+* 📊 Interactive Dashboard
+* 📥 Excel Import & Export
+* 📧 Email Automation
+* ☁️ Cloudinary Integration
+* 🐘 PostgreSQL Database
+* 📱 Responsive User Interface
+
+### 🛠 Tech Stack
+
+`Python` `Django` `PostgreSQL` `Bootstrap` `Cloudinary`
+
+<div align="center">
+
+<a href="https://aurelix-9q4e.onrender.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-06B6D4?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Ayush2809-tech/Aurelix">
+<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-## 🎯 2026 Goals
-- 💻 Build and deploy more full-stack projects
-- ⚛️ Strengthen JavaScript & React
-- 🐍 Build production-quality Django applications
-- 🌐 Build a strong developer portfolio
+## 🧬 Biotech Park Online Admission System
+
+> A full-stack online admission system developed for **Biotech Park, Lucknow** during my Python & Django internship.
+
+### ✨ Key Features
+
+* 📝 Online Admission Form
+* 🔐 Secure User Authentication
+* 📊 Admin Management
+* 💳 Payment Integration
+* 📧 Email Notifications
+* 🗂 Database Management
+* 📱 Responsive Interface
+
+### 🛠 Tech Stack
+
+`Python` `Django` `HTML` `CSS` `Bootstrap` `SQL`
+
+<div align="center">
+
+<a href="https://github.com/Ayush2809-tech/BTech-Park-Admission-System">
+<img src="https://img.shields.io/badge/💻_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 EduRegister — Student Registration UI
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Ayush2809-tech&theme=tokyonight&hide_border=true"/>
-</p>
+> A modern and responsive frontend registration interface built to practice UI development and responsive design.
+
+### ✨ Highlights
+
+* 🎥 Video Background
+* 📱 Fully Responsive Layout
+* 🎨 Custom CSS Styling
+* 🧩 Bootstrap Components
+* ⚡ Interactive JavaScript Elements
+
+### 🛠 Tech Stack
+
+`HTML5` `CSS3` `Bootstrap` `JavaScript`
+
+<div align="center">
+
+<a href="https://ayush2809-tech.github.io/EduRegister-Student-Registration-UI/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-06B6D4?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Ayush2809-tech/EduRegister-Student-Registration-UI">
+<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 🛠️ Tech Stack & Tools
 
-<p align="center">
+## 💻 Programming Languages
+
+<div align="center">
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`Python`    `Java`    `JavaScript`    `C`
+
+</div>
+
+---
+
+## 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`HTML5`    `CSS3`    `Bootstrap`    `JavaScript`    `React`
+
+</div>
+
+---
+
+## ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" height="55"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`Python`    `Django`
+
+</div>
+
+---
+
+## 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`SQLite`    `PostgreSQL`
+
+</div>
+
+---
+
+## ☁️ Deployment & Cloud Services
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+
+<br/><br/>
+
+`Render`    `Cloudinary`    `Brevo`
+
+</div>
+
+---
+
+## 🧰 Developer Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=idea" height="55"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`Git`    `GitHub`    `VS Code`    `IntelliJ IDEA`
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| 🧠                           | 💻                  | ⚛️                 | 🌐              |
+| ---------------------------- | ------------------- | ------------------ | --------------- |
+| Data Structures & Algorithms | Advanced Django     | JavaScript & React | REST APIs       |
+| Java                         | Backend Development | Modern Frontend    | Database Design |
+
+</div>
+
+---
+
+# 🎯 2026 Development Goals
+
+* 🚀 Build and deploy **10+ strong projects**
+* ⚛️ Strengthen **JavaScript & React**
+* 🐍 Build production-quality **Django applications**
+* 🧠 Improve **Data Structures & Algorithms**
+* 🌐 Build a strong **Full-Stack Developer Portfolio**
+* 🔧 Learn modern backend development practices
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="175" src="https://streak-stats.demolab.com?user=Ayush2809-tech&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2809-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush2809-tech&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="https://github.com/Ayush2809-tech">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -150,14 +357,16 @@ A responsive frontend registration interface built to practice modern UI design 
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayush2809-tech&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Building. Learning. Improving. 🚀</i>
-</p>
+### 💡 *Building. Learning. Improving. 🚀*
+
+**Open to learning, collaboration, and building meaningful projects.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:22C55E&height=120&section=footer"/>
