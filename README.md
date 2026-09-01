@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="./assets/ayush-3d-profile.png" alt="Ayush Saxena - 3D Full-Stack Developer Profile" width="100%"/>
+<img src="./ayush-3d-animation.gif" width="100%" alt="Animated 3D developer banner"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Saxena;Aspiring+Full-Stack+Developer+%F0%9F%9A%80;Building+Real-World+Web+Applications;Python+%7C+Django+%7C+JavaScript+%7C+React;Build.+Learn.+Improve.+Ship." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Saxena;Aspiring+Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+Django+%7C+JavaScript+%7C+React;Building+Real-World+Web+Applications;Build.+Learn.+Improve.+Ship." />
 
 <br/><br/>
 
 <a href="https://github.com/Ayush2809-tech">
-  <img src="https://img.shields.io/github/followers/Ayush2809-tech?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=181717" />
-</a>
-<a href="https://github.com/Ayush2809-tech?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/Ayush2809-tech?style=for-the-badge&label=FOLLOWERS&logo=github&color=181717"/>
 </a>
 <a href="https://www.linkedin.com/in/ayush-saxena-2809s/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:saxenaayush2809@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -28,20 +28,23 @@
 ╭──────────────────────────────────────────────────────────────╮
 │                    DEVELOPER PROFILE                        │
 ├──────────────────────────────────────────────────────────────┤
-│  👤 Name        → Ayush Saxena                              │
-│  🎓 Education   → B.Tech CSE (AI & ML)                      │
-│  🚀 Focus       → Full-Stack Web Development                │
-│  🐍 Backend     → Python & Django                           │
-│  ⚛️ Frontend    → JavaScript & React                        │
-│  ☕ DSA         → Java & Problem Solving                    │
-│  🎯 Mission     → Build useful, scalable web applications   │
+│ 👤 Name       → Ayush Saxena                                │
+│ 🎓 Education  → B.Tech CSE (AI & ML)                        │
+│ 🚀 Focus      → Full-Stack Development                      │
+│ 🐍 Backend    → Python & Django                             │
+│ ⚛️ Frontend   → JavaScript & React                          │
+│ ☕ DSA        → Java & Problem Solving                      │
+│ 🎯 Mission    → Build useful real-world applications        │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-I'm a Computer Science student focused on turning ideas into practical web applications.  
-My current journey is centered around **backend development, full-stack engineering, databases, deployment, and problem solving**.
+I am focused on building practical web applications and improving my skills through **real projects, backend development, modern frontend technologies, databases, deployment, and DSA**.
 
-> **Idea → Code → Build → Deploy → Improve**
+<div align="center">
+
+### 💡 IDEA → CODE → BUILD → DEPLOY → IMPROVE
+
+</div>
 
 ---
 
@@ -67,9 +70,9 @@ My current journey is centered around **backend development, full-stack engineer
 
 ## 🎓 Aurelix
 
-**Student Management System**
+### Student Management System
 
-Production-oriented Django application for managing student-related operations.
+A production-oriented Django application for managing student-related operations.
 
 **Highlights**
 - 🔐 Authentication & Authorization
@@ -77,7 +80,7 @@ Production-oriented Django application for managing student-related operations.
 - 📊 Dashboard
 - 📥 Excel Import & Export
 - 📧 Email Automation
-- ☁️ Cloudinary Integration
+- ☁️ Cloudinary
 - 🐘 PostgreSQL
 
 <br/>
@@ -98,16 +101,16 @@ Production-oriented Django application for managing student-related operations.
 
 ## 🧬 Biotech Park
 
-**Online Admission System**
+### Online Admission System
 
-Full-stack admission platform developed for **Biotech Park, Lucknow** during my Python & Django internship.
+A full-stack admission platform developed for **Biotech Park, Lucknow** during my Python & Django internship.
 
 **Highlights**
 - 📝 Online Admission Workflow
 - 🔐 Authentication
 - 🧑‍💼 Admin Management
 - 💳 Payment Integration
-- 📧 Email Features
+- 📧 Email Functionality
 - 🗄️ Database Operations
 
 <br/>
@@ -122,14 +125,14 @@ Full-stack admission platform developed for **Biotech Park, Lucknow** during my 
 
 ## 🎨 EduRegister
 
-**Student Registration UI**
+### Student Registration UI
 
-Responsive frontend project focused on modern UI and clean user experience.
+A responsive frontend project focused on UI development and user experience.
 
 **Highlights**
 - 🎥 Video Background
 - 📱 Responsive Layout
-- 🎨 Custom Styling
+- 🎨 Custom CSS
 - 🧩 Bootstrap Components
 - ⚡ JavaScript Interaction
 
@@ -159,41 +162,16 @@ Responsive frontend project focused on modern UI and clean user experience.
 <img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </div>
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-</div>
-
 ## 🎨 Frontend
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
 </div>
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
-
 ## ⚙️ Backend
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=django,python" />
-</div>
-
-<div align="center">
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=python,django" />
 </div>
 
 ## 🗄️ Databases
@@ -202,25 +180,14 @@ Responsive frontend project focused on modern UI and clean user experience.
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 </div>
 
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-## ☁️ Tools & Platforms
+## 🧑‍💻 Tools & Platforms
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</div>
-
-<div align="center">
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Brevo](https://img.shields.io/badge/Brevo-0B9E9A?style=for-the-badge)
-
+<br/><br/>
+<img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-Media-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Brevo-Email-0B9E9A?style=for-the-badge"/>
 </div>
 
 ---
@@ -229,19 +196,9 @@ Responsive frontend project focused on modern UI and clean user experience.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="175" src="https://streak-stats.demolab.com?user=Ayush2809-tech&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush2809-tech&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush2809-tech&theme=tokyonight" />
+<img height="180" src="https://streak-stats.demolab.com?user=Ayush2809-tech&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -249,9 +206,32 @@ Responsive frontend project focused on modern UI and clean user experience.
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush2809-tech&theme=tokyonight" />
+<!-- Screenshot-style language donut card -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush2809-tech&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush2809-tech&theme=tokyonight"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush2809-tech&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Animated Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+> The snake animation is generated automatically from your real GitHub contribution graph.
 
 ---
 
@@ -270,12 +250,14 @@ Responsive frontend project focused on modern UI and clean user experience.
 
 # 🎯 2026 Mission
 
-- 🚀 Build and deploy more strong full-stack projects
-- ⚛️ Strengthen JavaScript and React
-- 🐍 Build production-quality Django applications
-- 🧠 Improve DSA and problem-solving skills
-- 🌐 Build a strong developer portfolio
-- 💻 Keep shipping projects and learning consistently
+```text
+[✓] Build and deploy real-world applications
+[→] Strengthen JavaScript & React
+[→] Build production-quality Django projects
+[→] Improve DSA and problem solving
+[→] Ship more full-stack projects
+[→] Keep learning. Keep building.
+```
 
 ---
 
@@ -301,8 +283,6 @@ Responsive frontend project focused on modern UI and clean user experience.
 
 <div align="center">
 
-### ⚡ BUILD • LEARN • IMPROVE • SHIP ⚡
-
-**Thanks for visiting my profile! 🚀**
+## ⚡ BUILD • LEARN • IMPROVE • SHIP ⚡
 
 </div>
