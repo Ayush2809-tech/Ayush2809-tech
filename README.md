@@ -248,19 +248,6 @@ A responsive frontend project focused on UI development and user experience.
 
 ---
 
-# 🎯 2026 Mission
-
-```text
-[✓] Build and deploy real-world applications
-[→] Strengthen JavaScript & React
-[→] Build production-quality Django projects
-[→] Improve DSA and problem solving
-[→] Ship more full-stack projects
-[→] Keep learning. Keep building.
-```
-
----
-
 # 🤝 Let's Connect
 
 <div align="center">
