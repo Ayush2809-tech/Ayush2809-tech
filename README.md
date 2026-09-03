@@ -25,17 +25,17 @@
 # 👨‍💻 About Me
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                    DEVELOPER PROFILE                        │
-├──────────────────────────────────────────────────────────────┤
-│ 👤 Name       → Ayush Saxena                                │
-│ 🎓 Education  → B.Tech CSE (AI & ML)                        │
-│ 🚀 Focus      → Full-Stack Development                      │
-│ 🐍 Backend    → Python & Django                             │
-│ ⚛️ Frontend   → JavaScript & React                          │
-│ ☕ DSA        → Java & Problem Solving                      │
-│ 🎯 Mission    → Build useful real-world applications        │
-╰──────────────────────────────────────────────────────────────╯
+                                    ╭──────────────────────────────────────────────────────────────╮
+                                    │                    My PROFILE                                │
+                                    ├──────────────────────────────────────────────────────────────┤
+                                    │ 👤 Name       → Ayush Saxena                                │
+                                    │ 🎓 Education  → B.Tech CSE (AI & ML)                        │
+                                    │ 🚀 Focus      → Full-Stack Development                      │
+                                    │ 🐍 Backend    → Python & Django                             │
+                                    │ ⚛️ Frontend   → JavaScript & React                          │
+                                    │ ☕ DSA        → Java & Problem Solving                      │
+                                    │ 🎯 Mission    → Build useful real-world applications        │
+                                    ╰──────────────────────────────────────────────────────────────╯
 ```
 
 I am focused on building practical web applications and improving my skills through **real projects, backend development, modern frontend technologies, databases, deployment, and DSA**.
