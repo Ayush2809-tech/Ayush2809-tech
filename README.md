@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ayush-3d-animation.gif" width="100%" alt="Animated 3D developer banner"/>
+<img src="./ayush-3d-animation.gif" width="100%" alt="Ayush Saxena - Full Stack Developer"/>
 
 <br/><br/>
 
@@ -8,15 +8,25 @@
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=Ayush2809-tech&style=for-the-badge&label=PROFILE+VIEWS&color=22D3EE" alt="Profile Views"/>
+
 <a href="https://github.com/Ayush2809-tech">
-  <img src="https://img.shields.io/github/followers/Ayush2809-tech?style=for-the-badge&label=FOLLOWERS&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/followers/Ayush2809-tech?style=for-the-badge&label=FOLLOWERS&logo=github&color=181717" alt="GitHub Followers"/>
 </a>
+
 <a href="https://www.linkedin.com/in/ayush-saxena-2809s/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:saxenaayush2809@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-22D3EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK_DEVELOPMENT-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED_IN-INDIA-16A34A?style=for-the-badge"/>
 
 </div>
 
@@ -24,25 +34,87 @@
 
 # 👨‍💻 About Me
 
-```text
-                                    ╭──────────────────────────────────────────────────────────────╮
-                                    │                    MY PROFILE                                │
-                                    ├──────────────────────────────────────────────────────────────┤
-                                    │ 👤 Name       → Ayush Saxena                                │
-                                    │ 🎓 Education  → B.Tech CSE (AI & ML)                        │
-                                    │ 🚀 Focus      → Full-Stack Development                      │
-                                    │ 🐍 Backend    → Python & Django                             │
-                                    │ ⚛️ Frontend   → JavaScript & React                          │
-                                    │ ☕ DSA        → Java & Problem Solving                      │
-                                    │ 🎯 Mission    → Build useful real-world applications        │
-                                    ╰──────────────────────────────────────────────────────────────╯
-```
+<table>
+<tr>
 
-I am focused on building practical web applications and improving my skills through **real projects, backend development, modern frontend technologies, databases, deployment, and DSA**.
+<td width="42%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" alt="Developer Animation"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-22D3EE?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PYTHON-DJANGO-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-REACT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JAVA-DSA-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</td>
+
+<td width="58%" valign="top">
+
+## Hi, I'm Ayush Saxena 👋
+
+I'm a **B.Tech Computer Science & Engineering (AI & ML) student at Dr. A.P.J. Abdul Kalam Technical University (AKTU)**, passionate about software development, problem solving, and building practical web applications.
+
+I am currently focused on becoming a **Full-Stack Developer**, combining strong programming fundamentals with real-world development experience.
+
+### 🚀 What I Do
+
+- 🐍 Build backend applications using **Python & Django**
+- ⚛️ Develop interactive interfaces using **JavaScript & React**
+- ☕ Practice **Data Structures & Algorithms with Java**
+- 🗄️ Work with **SQL databases and backend systems**
+- 🌐 Build and deploy **real-world web applications**
+- 🔧 Use **Git & GitHub** for version control and project management
+
+### 💼 Experience
+
+I have hands-on industry experience as a **Python & Django Intern**, where I worked on a real-world **Online Admission System for Biotech Park, Lucknow**.
+
+My development experience includes working with:
+
+**Authentication • Admin Panels • Database Operations • Payment Integration • Email Automation • Excel Processing • Cloud Services**
+
+I have also built and deployed independent projects, giving me practical exposure to the complete development lifecycle:
+
+**Idea → Development → Testing → Deployment → Improvement**
+
+### 🎓 Education
+
+**B.Tech — Computer Science & Engineering (AI & ML)**  
+**Dr. A.P.J. Abdul Kalam Technical University (AKTU)**
+
+Currently strengthening my skills through **projects, DSA, backend development and modern frontend technologies**.
+
+### 🎯 Career Goal
+
+My goal is to become a strong **Full-Stack Engineer** capable of understanding real-world problems, designing effective solutions, building scalable applications, and continuously improving my technical skills.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-### 💡 IDEA → CODE → BUILD → DEPLOY → IMPROVE
+## 🕉️ कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+
+### *Your right is to perform your work, not to the fruits of your actions.*
+
+<br/>
+
+> **"Code with purpose. Learn with patience. Build with courage. Ship with consistency."** 🚀
 
 </div>
 
@@ -53,10 +125,11 @@ I am focused on building practical web applications and improving my skills thro
 <div align="center">
 
 | 🚀 BUILDING | 🧠 LEARNING | 🎯 IMPROVING |
-|---|---|---|
+|:---:|:---:|:---:|
 | Full-Stack Applications | JavaScript & React | DSA with Java |
 | Django Backends | REST APIs | Problem Solving |
-| Production Projects | Database Design | Deployment Skills |
+| Production Projects | Database Design | Clean Code |
+| Real-World Solutions | Backend Architecture | Deployment |
 
 </div>
 
@@ -66,27 +139,35 @@ I am focused on building practical web applications and improving my skills thro
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ## 🎓 Aurelix
 
 ### Student Management System
 
-A production-oriented Django application for managing student-related operations.
+A production-oriented **Django application** designed to manage student-related operations efficiently.
+
+**Tech Stack**
+
+`Python` `Django` `PostgreSQL` `JavaScript`
 
 **Highlights**
+
 - 🔐 Authentication & Authorization
 - 👨‍🎓 Student Management
 - 📊 Dashboard
 - 📥 Excel Import & Export
 - 📧 Email Automation
-- ☁️ Cloudinary
+- ☁️ Cloudinary Integration
 - 🐘 PostgreSQL
 
 <br/>
 
+<div align="center">
+
 <a href="https://aurelix-9q4e.onrender.com/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -94,6 +175,8 @@ A production-oriented Django application for managing student-related operations
 <a href="https://github.com/Ayush2809-tech/Aurelix">
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 </td>
 
@@ -105,19 +188,29 @@ A production-oriented Django application for managing student-related operations
 
 A full-stack admission platform developed for **Biotech Park, Lucknow** during my Python & Django internship.
 
+**Tech Stack**
+
+`Python` `Django` `HTML` `CSS` `JavaScript`
+
 **Highlights**
+
 - 📝 Online Admission Workflow
 - 🔐 Authentication
 - 🧑‍💼 Admin Management
 - 💳 Payment Integration
 - 📧 Email Functionality
 - 🗄️ Database Operations
+- 📋 Application Management
 
 <br/>
+
+<div align="center">
 
 <a href="https://github.com/Ayush2809-tech/BTech-Park-Admission-System">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 </td>
 
@@ -127,19 +220,27 @@ A full-stack admission platform developed for **Biotech Park, Lucknow** during m
 
 ### Student Registration UI
 
-A responsive frontend project focused on UI development and user experience.
+A responsive frontend project focused on **modern UI design, user experience and interactive web development**.
+
+**Tech Stack**
+
+`HTML` `CSS` `Bootstrap` `JavaScript`
 
 **Highlights**
+
 - 🎥 Video Background
 - 📱 Responsive Layout
 - 🎨 Custom CSS
 - 🧩 Bootstrap Components
 - ⚡ JavaScript Interaction
+- ✨ Modern UI
 
 <br/>
 
+<div align="center">
+
 <a href="https://ayush2809-tech.github.io/EduRegister-Student-Registration-UI/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -148,7 +249,10 @@ A responsive frontend project focused on UI development and user experience.
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</div>
+
 </td>
+
 </tr>
 </table>
 
@@ -156,38 +260,58 @@ A responsive frontend project focused on UI development and user experience.
 
 # 🧰 Tech Stack
 
-## 💻 Languages
+## 💻 Programming Languages
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,js,c" />
+
 </div>
 
-## 🎨 Frontend
+<br/>
+
+## 🎨 Frontend Development
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+
 </div>
 
-## ⚙️ Backend
+<br/>
+
+## ⚙️ Backend Development
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,django" />
+
 </div>
+
+<br/>
 
 ## 🗄️ Databases
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+
 </div>
 
-## 🧑‍💻 Tools & Platforms
+<br/>
+
+## 🛠️ Tools & Platforms
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
 <br/><br/>
+
 <img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudinary-Media-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 <img src="https://img.shields.io/badge/Brevo-Email-0B9E9A?style=for-the-badge"/>
+
 </div>
 
 ---
@@ -196,7 +320,7 @@ A responsive frontend project focused on UI development and user experience.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayush2809-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
 <img height="180" src="https://streak-stats.demolab.com?user=Ayush2809-tech&theme=tokyonight&hide_border=true"/>
 
@@ -206,7 +330,6 @@ A responsive frontend project focused on UI development and user experience.
 
 <div align="center">
 
-<!-- Screenshot-style language donut card -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush2809-tech&theme=tokyonight"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush2809-tech&theme=tokyonight"/>
@@ -223,53 +346,62 @@ A responsive frontend project focused on UI development and user experience.
 
 ---
 
-# 🐍 Animated Contribution Snake
+# 🐍 Animated Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/Ayush2809-tech/Ayush2809-tech/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
 
 </div>
 
-> The snake animation is generated automatically from your real GitHub contribution graph.
+<br/>
+
+<div align="center">
+
+### 🟢 Every contribution is a step forward.
+
+</div>
 
 ---
 
 # 📚 Currently Learning
 
+<div align="center">
+
+| 📚 Technology | 🎯 Focus |
+|:---|:---|
+| ☕ **Java** | Data Structures & Algorithms |
+| ⚛️ **React** | Modern Frontend Development |
+| 🐍 **Django** | Advanced Backend Development |
+| 🌐 **REST APIs** | API Development & Integration |
+| 🗄️ **Databases** | SQL & Database Design |
+| 🚀 **Full-Stack** | End-to-End Application Development |
+
+</div>
+
+---
+
+# 🎯 2026 Mission
+
+<div align="center">
+
 ```text
-☕  Data Structures & Algorithms with Java
-⚛️  JavaScript & React
-🐍  Advanced Django & Backend Development
-🌐  REST APIs
-🗄️  Database Design
-🚀  Full-Stack Application Development
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Ayush2809-tech">
-<img src="https://img.shields.io/badge/GitHub-Ayush2809--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ayush-saxena-2809s/">
-<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Saxena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:saxenaayush2809@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║               🚀 MY 2026 DEVELOPER MISSION           ║
+║                                                      ║
+║     → Strengthen Full-Stack Development              ║
+║     → Master DSA with Java                           ║
+║     → Build Real-World Projects                      ║
+║     → Improve Backend & API Skills                   ║
+║     → Deploy Production-Ready Applications           ║
+║     → Become Interview & Industry Ready              ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 </div>
-
----
-
-<div align="center">
-
-## ⚡ BUILD • LEARN • IMPROVE • SHIP ⚡
-
-</div>
+🤝 Let's Connect
+<div align="center"> <a href="https://github.com/Ayush2809-tech"> <img src="https://img.shields.io/badge/GitHub-Ayush2809--tech-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/ayush-saxena-2809s/"> <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Saxena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:saxenaayush2809@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <br/> <div align="center">
+💬 Always Learning • Always Building • Always Improving
+<br/>
+⚡ BUILD • LEARN • IMPROVE • SHIP ⚡
+</div> ```
